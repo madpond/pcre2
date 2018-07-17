@@ -9,7 +9,7 @@ Requirements
 ============
 
 * [node.js](http://nodejs.org/) -- v0.8.0 or newer
-* Windows, Linux, or OSX
+* Linux, or OSX (currently not Windows)
 
 
 Install
