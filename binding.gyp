@@ -9,7 +9,7 @@
 					'message': 'Building PCRE2 library...',
 					'inputs': [''],
 					'outputs': [''],
-					'action': ['eval', './compile'],
+					'action': ['/bin/sh', './compile'],
 				},
 			],
 			"include_dirs": [
